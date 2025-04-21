@@ -49,3 +49,6 @@ cd TodoWeb
 4. Run the application (`TodoWebApplication.java`).
 5. Open your browser and go to: `http://localhost:8080/`
 
+## Mockup
+
+<img src="./qqq.png" alt="Mockup" style="max-width: 500px;">
