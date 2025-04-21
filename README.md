@@ -49,10 +49,3 @@ cd TodoWeb
 4. Run the application (`TodoWebApplication.java`).
 5. Open your browser and go to: `http://localhost:8080/`
 
-## 📸 UI Preview
-
-> You can customize this section with screenshots later if you want 😉
-
----
-
-Feel free to modify this based on your project details or language preferences.
